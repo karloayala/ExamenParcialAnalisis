@@ -49,3 +49,6 @@ public class Problema2 {
         System.out.println("Segundo mayor: " + resultado[1]);
     }
 }
+// Explicacion General: es un algoritmo simple de "merge sort" entre comillas porque como tal los ordena pero no da como resultado el orden sino
+// dos numeros el "mayor" y el "segundo" que seria el que buscamos el caso base se explica en linea:5 pero no lo divide solo crea un numero extra porque el segundo
+// o existe

@@ -49,7 +49,7 @@ false
 Cuando se llega al último índice:
 
 ```java
-if(index == arr.length - 1)
+if(i == arr.length - 1)
 ```
 
 ## Recurrencia
@@ -172,3 +172,5 @@ CopiaRÚBRICA_EXAMEN_PARCIAL_2026-1_KarloAyala
 CopiaEXAMEN_PARCIAL_KarloAyala
 README.md
 ```
+## ESPECIAL COLABORATORS OF README: CHAD GPT
+# THANKS TO HIM/HER … IT?
